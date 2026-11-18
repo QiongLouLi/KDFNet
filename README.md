@@ -1,6 +1,6 @@
 # KDFNet: Kalman Dynamic Filtering Network for Multivariate Time Series Forecasting
 
-\<p align="center">   \<strong>Accepted by IEEE ICASSP 2026 as an Oral Presentation.\</strong> \</p>
+**Accepted by IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026) as an Oral Presentation.**
 
 Official implementation of **KDFNet**, a lightweight Kalman-based framework for multivariate time series forecasting.
 
