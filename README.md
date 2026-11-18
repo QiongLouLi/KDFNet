@@ -74,10 +74,7 @@ Ziqiong Li, Heyu Chai, Shengjun Liu, Wenzhen Yue, and Xinru Liu.
 
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.
 
-## Acknowledgements
-
-This work was supported in part by the High Performance Computing Center of Central South University.
-
----
-
-**Keywords:** Time Series Forecasting, Kalman Filtering, Multivariate Time Series, Attention Mechanism, Long-Term Forecasting.
+\noindent\textbf{Contact:} 
+For any questions, please contact Ziqiong Li, 
+Central South University, China. 
+Email: \href{mailto:1318176501@qq.com}{1318176501@qq.com}.
