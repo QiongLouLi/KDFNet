@@ -74,7 +74,6 @@ Ziqiong Li, Heyu Chai, Shengjun Liu, Wenzhen Yue, and Xinru Liu.
 
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.
 
-\noindent\textbf{Contact:} 
-For any questions, please contact Ziqiong Li, 
-Central South University, China. 
-Email: \href{mailto:1318176501@qq.com}{1318176501@qq.com}.
+
+**For any questions, please contact Ziqiong Li,** 
+Central South University, China. Email: {1318176501@qq.com}.
